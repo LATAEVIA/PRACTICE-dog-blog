@@ -1,6 +1,6 @@
 # _Phony Baloney_
 
-#### _What would be an actual README for existing software is in actuality a student project., Pie Day 2016 Sucka!_
+#### _What would be an actual README for existing software, is in fact actuality a student project., Pie Day 2016 Sucka!_
 
 #### By _**LaTaevia**_
 
